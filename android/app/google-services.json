@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394051080426",
+    "project_id": "mixology2-4bc8c",
+    "storage_bucket": "mixology2-4bc8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394051080426:android:952ee1c244ef71a6ee8793",
+        "android_client_info": {
+          "package_name": "com.example.mixology2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394051080426-8dnqq7ggj5s680jmjquucoj4nbuth526.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mixology2",
+            "certificate_hash": "5d78be705d39c447d9b190a2e5f58f55110636ca"
+          }
+        },
+        {
+          "client_id": "394051080426-kma6eli0puhsr6ioj2kgabtjfpt18gm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE63ldePi6x_h8aMVM00aHtv-v-OzOapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394051080426-kma6eli0puhsr6ioj2kgabtjfpt18gm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
